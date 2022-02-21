@@ -1,6 +1,6 @@
 ### Hi I am ROHAN SANJAY SHINDE 
 
-<a href="https://github.com/ROHANSHINDE1234/python-/files/8110739/Resume.docx"><img height="35" src="https://github.com/ROHANSHINDE1234/python-/files/8110739/Resume.docx"></a>&nbsp;&nbsp
+[Resume]https://github.com/ROHANSHINDE1234/python-/files/8110739/Resume.docx
 <!--
 **ROHANSHINDE1234/ROHANSHINDE1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
